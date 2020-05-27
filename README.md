@@ -91,3 +91,5 @@ urlpatterns = urlpatterns + [
 ]
 
 ```
+
+5. Run migrations and create a superuser. Then login to the django admin console and create a new Social Application with the client id and secret from the application created in google developers console.
